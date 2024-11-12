@@ -13,7 +13,12 @@
 - 😄 Pronouns:
    - He / Him / His
 - ⚡ Fun fact:
-   - My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo and I'll be laughing as hard as possible.
+   - My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
+     
+    ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
+    ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
+    ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
+    ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
 
 <!---
 rGabrex/rGabrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
