@@ -18,7 +18,6 @@
     ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
     ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
     ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
-    ![orange-cat-laughing](https://github.com/user-attachments/assets/b6e6c123-48a4-4796-90a9-5a49ee72b0e3)
 
 <!---
 rGabrex/rGabrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
