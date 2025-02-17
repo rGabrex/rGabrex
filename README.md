@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in<br><br>Motorcycles<br>Programming<br>DIY and Music<br>Gaming<br>🌱 I’m currently learning<br><br>HTML & CSS<br>JavaScript<br>UI/UX Design<br>📫 How to reach me<br><br>Discord: rGabrex<br>Instagram: rGabrex (appreciate the fantasy!)<br>😄 Pronouns:<br><br>He / Him / His<br>⚡ Fun fact:<br><br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
+I’m interested in<br>Motorcycles<br>Programming<br>DIY and Music<br>Gaming<br><br>🌱 I’m currently learning<br>HTML & CSS<br>JavaScript<br>UI/UX Design<br><br>😄 Pronouns:<br>He / Him / His<br><br>⚡ Fun fact:<br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
 
 
 ## 🌐 Socials:
