@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in<br>Motorcycles<br>Programming<br>DIY and Music<br>Gaming<br><br>🌱 I’m currently learning<br>HTML & CSS<br>JavaScript<br>UI/UX Design<br><br>😄 Pronouns:<br>He / Him / His<br><br>⚡ Fun fact:<br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
+📑 <b>I’m interested in:</b><br>Motorcycles<br>Programming<br>DIY and Music<br>Gaming<br><br>🌱 <b>I’m currently learning:</b><br>HTML & CSS<br>JavaScript<br>UI/UX Design<br><br>😄 <b>Pronouns:</b><br>He / Him / His<br><br>⚡ <b>Fun fact:</b><br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
 
 
 ## 🌐 Socials:
