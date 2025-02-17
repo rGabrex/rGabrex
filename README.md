@@ -1,5 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rgabrex=-=/rgabrex/output/github-snake.svg" />
+</picture>
+
 # 💫 About Me:
-📑 <b>I’m interested in:</b><br>Motorcycles<br>Programming<br>DIY and Music<br>Gaming<br><br>🌱 <b>I’m currently learning:</b><br>HTML & CSS<br>JavaScript<br>UI/UX Design<br><br>😄 <b>Pronouns:</b><br>He / Him / His<br><br>⚡ <b>Fun fact:</b><br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
+🌱 <b>I’m currently learning:</b><br>HTML & CSS<br>JavaScript<br>UI/UX Design<br><br>😄 <b>Pronouns:</b><br>He / Him / His<br><br>⚡ <b>Fun fact:</b><br>My classmate tells me I'm a dumb guy pretending to be intelligent, he's just better at programming. Fun fact he will collapse at 25yo.
 
 
 ## 🌐 Socials:
@@ -14,9 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rGabrex&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rgabrex=-=/rgabrex/output/github-snake.svg" />
-</picture>
