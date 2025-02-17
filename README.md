@@ -12,10 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rGabrex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rGabrex&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rGabrex&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rGabrex&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rgabrex/rgabrex/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rgabrex=-=/rgabrex/output/github-snake.svg" />
+</picture>
