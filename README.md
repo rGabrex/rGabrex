@@ -30,7 +30,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 
 ## 📊 My Stats:
-[![roadmap.sh](https://roadmap.sh/card/wide/68d11faa1a0296edeffc2152?variant=dark)](https://roadmap.sh)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rGabrex&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
