@@ -1,58 +1,47 @@
-<h1 align="left">Hello! 👋</h1>
+# Gabriele
+### Computer Science Student @ University of Milan
 
-<p align="left">I'm Gabriele, a 19-year-old Computer Science student at the University of Milan. I'm passionate about Computer Graphics, Game Development, and Software Engineering, actively building my expertise through academic projects and hands-on development.</p>
+I am a software engineering student bridging the gap between design and implementation. My primary focus is **Frontend Engineering**, and I am actively expanding my expertise into **Native Mobile Development (iOS/Swift)**. Looking forward to learn other like Kotlin and Flutter.
+
+While I specialize in building responsive interfaces, I maintain a strong foundation in systems programming and backend architecture through my academic studies.
 
 ---
 
-<h2 align="left">💻 Technical Skills</h2>
+### 🚀 Core Stack: Frontend & Mobile
+*Technologies I use daily to build interfaces and applications.*
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,figma,swift&perline=7" height="40" alt="frontend stack" />
+</div>
+
+<br />
+
+### 🛠️ Technical Proficiencies: Backend & Systems
+*Additional languages and tools I utilize for logic, data management, and development workflows.*
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,php,mysql,neovim&perline=7" height="40" alt="backend stack" />
 </div>
 
 ---
 
-<h2 align="left">🌐 Connect With Me</h2>
+### 🌐 Connect
 
 <div align="left">
-  <a href="YOUR_DISCORD_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="YOUR_LINKEDIN_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="YOUR_DISCORD_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
 
 ---
 
-<h2 align="left">📊 GitHub Activity</h2>
+### 📊 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rGabrex/rGabrex/output/pacman-contribution-graph-dark.svg">
