@@ -28,10 +28,10 @@ While I specialize in building responsive interfaces, I maintain a strong founda
 ### 🌐 Connect
 
 <div align="left">
-  <a href="www.linkedin.com/in/gabriele-amendola-420818389" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriele-amendola-420818389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="discord://-/users/437292781686358027" target="_blank">
+  <a href="https://discord://-/users/437292781686358027" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:amendola.gabriele06@gmail.com">
