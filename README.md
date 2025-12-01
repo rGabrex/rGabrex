@@ -20,7 +20,7 @@ While I specialize in building responsive interfaces, I maintain a strong founda
 *Additional languages and tools I utilize for logic, data management, and development workflows.*
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,php,mysql,neovim&perline=7" height="40" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,php,mysql&perline=7" height="40" alt="backend stack" />
 </div>
 
 ---
@@ -28,13 +28,13 @@ While I specialize in building responsive interfaces, I maintain a strong founda
 ### 🌐 Connect
 
 <div align="left">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="www.linkedin.com/in/gabriele-amendola-420818389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="YOUR_DISCORD_LINK" target="_blank">
+  <a href="discord://-/users/437292781686358027" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:YOUR_EMAIL@GMAIL.COM">
+  <a href="mailto:amendola.gabriele06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
